@@ -1,0 +1,3 @@
+:msg, contains, "APPLIANCE1 is FINISHED" ^/opt/whitegoodsd/appliance1.sh
+:msg, contains, "APPLIANCE2 is FINISHED" ^/opt/whitegoodsd/appliance2.sh
+
